@@ -11,7 +11,7 @@ Now that we have the request out of the way, here's how this code works:
 
 Notes:
 -It is programmed so that the computer can NEVER guess an ordered pair twice.
--It is also programmed so you cannot guess an ordered pair more than twice either
+-It is also programmed so you cannot guess an ordered pair more than once either
 -You are given the option to see where you have guessed and if it was a hit or miss. 
 -A miss on the guess board is denoted as an X and a hit as a O.
 
