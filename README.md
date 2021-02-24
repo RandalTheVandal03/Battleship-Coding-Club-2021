@@ -1,0 +1,3 @@
+# Battleship-Coding-Club-2021
+For the students in the coding club. This code is meant for educational purposes, if you're going to show this to others please give me some credit...
+I spent a lot of time working on this. Thanks :)
