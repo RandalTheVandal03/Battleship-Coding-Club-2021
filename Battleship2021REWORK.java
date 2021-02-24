@@ -1,7 +1,6 @@
 
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
-import java.util.HashMap;
 import java.util.Random;
 public class Battleship2021REWORK {
 	
